@@ -6,7 +6,7 @@ Greek who lives in Sweden.
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: info@72lions.com or @72lions on Twitter
+- 📫 How to reach me: info@72lions.com or @thodoris_tsrds on Twitter
 
 
 <!--
