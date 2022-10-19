@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Thodoris and I'm a Staff Engineer at Spotify. I'm also the creator of the [Forecast](https://l.instagram.com/?u=https%3A%2F%2Fitunes.apple.com%2Fse%2Fapp%2Fforecast-another-weather-app%2Fid1050430292%3Fl%3Den%26mt%3D8&e=ATNWa2sFr3RUmUyYQ39i-GYpaE8roVuy5txxQB7maggXS6Sfc9UkNNfT-yx7tmvC9qE_TzS1Ht9riE6HItgjIQ&s=1) weather app and I'm a hobbyist photographer.
+My name is Thodoris and I'm a Staff Engineer at Spotify. I'm also the creator of the [Forecast](https://apps.apple.com/se/app/forecast-another-weather-app/id1050430292?l=en) weather app and I'm a hobbyist photographer.
 
 Greek who lives in Sweden.
 
